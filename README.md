@@ -128,7 +128,7 @@ To get started with the ESP32-C3 Super Mini, you’ll need:
 
 #### **5. Upload a Test Sketch**
 1. Open a new sketch in the Arduino IDE.
-2. Add a simple example like the Blink sketch ([Blink Project](/docs/examples/Blink/README.md)).
+2. Add a simple example like the Blink sketch ([Blink Project](docs/examples/Blink/README.md)).
 3. Click **Upload** to send the sketch to your ESP32-C3.
 
 If everything is set up correctly, the LED on the ESP32-C3 should start blinking, indicating that the upload was successful.
@@ -156,26 +156,26 @@ The ESP32-C3 Super Mini supports a wide range of peripherals:
  ### **1. Blink LED**: 
 
   **A basic example to blink an LED.**
-  - Guide: [Blink Project](/docs/examples/Blink/README.md)
-  - Code: [blink.ino](/docs/examples/Blink/Blink.ino)
+  - Guide: [Blink Project](docs/examples/Blink/README.md)
+  - Code: [blink.ino](docs/examples/Blink/Blink.ino)
 
 ### **2. ESP32 C3 Super Mini with DHT11/DHT22**: 
 
   **Read temperature and humidity using DHT11/DHT22.**
-  - Guide: [ESP32 C3 Super Mini with DHT11](/docs/examples/ESP32_C3_Super_Mini_with_DHT11/README.md)
-  - Code: [ESP32_C3_Super_Mini_with_DHT11.ino](/docs/examples/ESP32_C3_Super_Mini_with_DHT11/ESP32_C3_Super_Mini_with_DHT11.ino)
+  - Guide: [ESP32 C3 Super Mini with DHT11](docs/examples/ESP32_C3_Super_Mini_with_DHT11/README.md)
+  - Code: [ESP32_C3_Super_Mini_with_DHT11.ino](docs/examples/ESP32_C3_Super_Mini_with_DHT11/ESP32_C3_Super_Mini_with_DHT11.ino)
 
 ### **3. ESP32-C3 Super Mini with DHT11/DHT22 - Display values using web server**:
 
   **To read temperature and humidity data from a DHT11/DHT22 sensor and display these values on a web server.**
-  - Guide: [Read DHT11/DHT22 - Display Values Using Web Server](/docs/examples/ESP32_C3_Super_Mini_with_DHT11_webServer/README.md)
-  - Code: [ESP32_C3_Super_Mini_with_DHT11_webServer.ino](/docs/examples/ESP32_C3_Super_Mini_with_DHT11_webServer/ESP32_C3_Super_Mini_with_DHT11_webServer.ino)
+  - Guide: [Read DHT11/DHT22 - Display Values Using Web Server](docs/examples/ESP32_C3_Super_Mini_with_DHT11_webServer/README.md)
+  - Code: [ESP32_C3_Super_Mini_with_DHT11_webServer.ino](docs/examples/ESP32_C3_Super_Mini_with_DHT11_webServer/ESP32_C3_Super_Mini_with_DHT11_webServer.ino)
 
 ### **4. WiFi Scanner mit OLED**:
 
   **Scanne nach WLAN-Netzen und zeige bis zu fünf Netzwerknamen mit ihrer Signalstärke in Prozent an.**
-  - Guide: [WiFi Scanner mit OLED](/docs/examples/ESP32_C3_Super_Mini_WiFi_Scan_OLED/README.md)
-  - Code: [ESP32_C3_Super_Mini_WiFi_Scan_OLED.ino](/docs/examples/ESP32_C3_Super_Mini_WiFi_Scan_OLED/ESP32_C3_Super_Mini_WiFi_Scan_OLED.ino)
+  - Guide: [WiFi Scanner mit OLED](docs/examples/ESP32_C3_Super_Mini_WiFi_Scan_OLED/README.md)
+  - Code: [ESP32_C3_Super_Mini_WiFi_Scan_OLED.ino](docs/examples/ESP32_C3_Super_Mini_WiFi_Scan_OLED/ESP32_C3_Super_Mini_WiFi_Scan_OLED.ino)
 
 ---
 
