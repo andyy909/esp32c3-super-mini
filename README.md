@@ -165,11 +165,17 @@ The ESP32-C3 Super Mini supports a wide range of peripherals:
   - Guide: [ESP32 C3 Super Mini with DHT11](/docs/examples/ESP32_C3_Super_Mini_with_DHT11/README.md)
   - Code: [ESP32_C3_Super_Mini_with_DHT11.ino](/docs/examples/ESP32_C3_Super_Mini_with_DHT11/ESP32_C3_Super_Mini_with_DHT11.ino)
 
-### **3. ESP32-C3 Super Mini with DHT11/DHT22 - Display values using web server**: 
+### **3. ESP32-C3 Super Mini with DHT11/DHT22 - Display values using web server**:
 
   **To read temperature and humidity data from a DHT11/DHT22 sensor and display these values on a web server.**
   - Guide: [Read DHT11/DHT22 - Display Values Using Web Server](/docs/examples/ESP32_C3_Super_Mini_with_DHT11_webServer/README.md)
   - Code: [ESP32_C3_Super_Mini_with_DHT11_webServer.ino](/docs/examples/ESP32_C3_Super_Mini_with_DHT11_webServer/ESP32_C3_Super_Mini_with_DHT11_webServer.ino)
+
+### **4. WiFi Scanner mit OLED**:
+
+  **Scanne nach WLAN-Netzen und zeige bis zu fünf Netzwerknamen mit ihrer Signalstärke in Prozent an.**
+  - Guide: [WiFi Scanner mit OLED](/docs/examples/ESP32_C3_Super_Mini_WiFi_Scan_OLED/README.md)
+  - Code: [ESP32_C3_Super_Mini_WiFi_Scan_OLED.ino](/docs/examples/ESP32_C3_Super_Mini_WiFi_Scan_OLED/ESP32_C3_Super_Mini_WiFi_Scan_OLED.ino)
 
 ---
 
